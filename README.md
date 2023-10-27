@@ -4,10 +4,10 @@
 - 👀 I’m currently learning embedded systems
 - 🤖 I’m looking to collaborate on python, c++, and robotics projects.
 - 📚 I study IRS. at Tecnológico de Monterrey
-- ⚾ I like playing baseball and 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=GerardoFJ&theme=onedark&margin-w=10&rank=-C,-?)
+- ⚾ I like playing baseball.
 <!--
+![trophy](https://github-profile-trophy.vercel.app/?username=GerardoFJ&theme=onedark&margin-w=10&rank=-C,-?)
+
 ## Contact
 <a href="https://www.linkedin.com/in/oscar-arreola04/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/oscar_arreola04/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
