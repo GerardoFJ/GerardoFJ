@@ -5,6 +5,8 @@
 - 🤖 I’m looking to collaborate on python, c++, and robotics projects.
 - 📚 I study IRS at Tecnológico de Monterrey
 - ⚾ I like playing baseball.
+-    Developer at @RoBorregos
+-    
 <!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=GerardoFJ&theme=onedark&margin-w=10&rank=-C,-?)
 
